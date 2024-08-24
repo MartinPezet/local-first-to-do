@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@automerge/automerge": "^2.2.8",
+    "@automerge/automerge-repo": "^1.2.1",
+    "@automerge/automerge-repo-network-websocket": "^1.2.1",
+    "@automerge/automerge-repo-storage-indexeddb": "^1.2.1",
+    "@automerge/automerge-repo-storage-nodefs": "^1.2.1",
+    "automerge": "^0.14.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "nodemon": "^3.1.4",
+    "vue": "^3.4.38",
+    "ws": "^8.18.0"
+  }
+}
